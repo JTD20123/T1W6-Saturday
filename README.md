@@ -45,3 +45,14 @@ for var-name in a sequence:
 
 # Practice Example 1
 Finding the sum of the first 10 numbers
+list = [3,41,12,9,74,15]
+
+# Loop control statements
+control the flow of the loop, terminate the loop early if you want or skip over iteration
+
+# break statement
+Terminate loop immediately, moves to the next statement after the loop
+## continue statement
+skips the rest of the code insde the loop of the current itteration and moves to  the next iteration
+
+
