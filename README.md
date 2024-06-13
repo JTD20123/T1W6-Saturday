@@ -55,4 +55,15 @@ Terminate loop immediately, moves to the next statement after the loop
 ## continue statement
 skips the rest of the code insde the loop of the current itteration and moves to  the next iteration
 
+# nested loops
+usefull for running multi dimentional nested loops
+
+# practice example 1
+print  a right-angled triangle pattern of stars.
+*
+**
+***
+****
+*****
+
 
